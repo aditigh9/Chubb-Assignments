@@ -1,0 +1,290 @@
+Folder PATH listing
+Volume serial number is 4C43-C853
+C:.
+³   appsettings.Development.json
+³   appsettings.json
+³   OrderManagementApi.csproj
+³   OrderManagementApi.csproj.user
+³   OrderManagementApi.http
+³   Program.cs
+³   structure.txt
+³   
+ÃÄÄÄbin
+³   ÀÄÄÄDebug
+³       ÀÄÄÄnet8.0
+³           ³   appsettings.Development.json
+³           ³   appsettings.json
+³           ³   Azure.Core.dll
+³           ³   Azure.Identity.dll
+³           ³   Humanizer.dll
+³           ³   Microsoft.AspNetCore.Authentication.JwtBearer.dll
+³           ³   Microsoft.AspNetCore.Cryptography.Internal.dll
+³           ³   Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+³           ³   Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+³           ³   Microsoft.Bcl.AsyncInterfaces.dll
+³           ³   Microsoft.Build.Locator.dll
+³           ³   Microsoft.CodeAnalysis.CSharp.dll
+³           ³   Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+³           ³   Microsoft.CodeAnalysis.dll
+³           ³   Microsoft.CodeAnalysis.Workspaces.dll
+³           ³   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+³           ³   Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+³           ³   Microsoft.Data.SqlClient.dll
+³           ³   Microsoft.EntityFrameworkCore.Abstractions.dll
+³           ³   Microsoft.EntityFrameworkCore.Design.dll
+³           ³   Microsoft.EntityFrameworkCore.dll
+³           ³   Microsoft.EntityFrameworkCore.Relational.dll
+³           ³   Microsoft.EntityFrameworkCore.SqlServer.dll
+³           ³   Microsoft.Extensions.Caching.Abstractions.dll
+³           ³   Microsoft.Extensions.Caching.Memory.dll
+³           ³   Microsoft.Extensions.Configuration.Abstractions.dll
+³           ³   Microsoft.Extensions.DependencyInjection.Abstractions.dll
+³           ³   Microsoft.Extensions.DependencyInjection.dll
+³           ³   Microsoft.Extensions.DependencyModel.dll
+³           ³   Microsoft.Extensions.Identity.Core.dll
+³           ³   Microsoft.Extensions.Identity.Stores.dll
+³           ³   Microsoft.Extensions.Logging.Abstractions.dll
+³           ³   Microsoft.Extensions.Logging.dll
+³           ³   Microsoft.Extensions.Options.dll
+³           ³   Microsoft.Extensions.Primitives.dll
+³           ³   Microsoft.Identity.Client.dll
+³           ³   Microsoft.Identity.Client.Extensions.Msal.dll
+³           ³   Microsoft.IdentityModel.Abstractions.dll
+³           ³   Microsoft.IdentityModel.JsonWebTokens.dll
+³           ³   Microsoft.IdentityModel.Logging.dll
+³           ³   Microsoft.IdentityModel.Protocols.dll
+³           ³   Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+³           ³   Microsoft.IdentityModel.Tokens.dll
+³           ³   Microsoft.OpenApi.dll
+³           ³   Microsoft.SqlServer.Server.dll
+³           ³   Microsoft.Win32.SystemEvents.dll
+³           ³   Mono.TextTemplating.dll
+³           ³   OrderManagementApi.deps.json
+³           ³   OrderManagementApi.dll
+³           ³   OrderManagementApi.exe
+³           ³   OrderManagementApi.pdb
+³           ³   OrderManagementApi.runtimeconfig.json
+³           ³   OrderManagementApi.staticwebassets.endpoints.json
+³           ³   Swashbuckle.AspNetCore.Swagger.dll
+³           ³   Swashbuckle.AspNetCore.SwaggerGen.dll
+³           ³   Swashbuckle.AspNetCore.SwaggerUI.dll
+³           ³   System.ClientModel.dll
+³           ³   System.CodeDom.dll
+³           ³   System.Composition.AttributedModel.dll
+³           ³   System.Composition.Convention.dll
+³           ³   System.Composition.Hosting.dll
+³           ³   System.Composition.Runtime.dll
+³           ³   System.Composition.TypedParts.dll
+³           ³   System.Configuration.ConfigurationManager.dll
+³           ³   System.Diagnostics.DiagnosticSource.dll
+³           ³   System.Drawing.Common.dll
+³           ³   System.Formats.Asn1.dll
+³           ³   System.IdentityModel.Tokens.Jwt.dll
+³           ³   System.IO.Pipelines.dll
+³           ³   System.Memory.Data.dll
+³           ³   System.Runtime.Caching.dll
+³           ³   System.Security.Cryptography.ProtectedData.dll
+³           ³   System.Security.Permissions.dll
+³           ³   System.Text.Encodings.Web.dll
+³           ³   System.Text.Json.dll
+³           ³   System.Windows.Extensions.dll
+³           ³   
+³           ÃÄÄÄcs
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄde
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄes
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄfr
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄit
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄja
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄko
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄpl
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄpt-BR
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄru
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄruntimes
+³           ³   ÃÄÄÄbrowser
+³           ³   ³   ÀÄÄÄlib
+³           ³   ³       ÀÄÄÄnet8.0
+³           ³   ³               System.Text.Encodings.Web.dll
+³           ³   ³               
+³           ³   ÃÄÄÄunix
+³           ³   ³   ÀÄÄÄlib
+³           ³   ³       ÀÄÄÄnet6.0
+³           ³   ³               Microsoft.Data.SqlClient.dll
+³           ³   ³               System.Drawing.Common.dll
+³           ³   ³               
+³           ³   ÃÄÄÄwin
+³           ³   ³   ÀÄÄÄlib
+³           ³   ³       ÀÄÄÄnet6.0
+³           ³   ³               Microsoft.Data.SqlClient.dll
+³           ³   ³               Microsoft.Win32.SystemEvents.dll
+³           ³   ³               System.Drawing.Common.dll
+³           ³   ³               System.Runtime.Caching.dll
+³           ³   ³               System.Security.Cryptography.ProtectedData.dll
+³           ³   ³               System.Windows.Extensions.dll
+³           ³   ³               
+³           ³   ÃÄÄÄwin-arm
+³           ³   ³   ÀÄÄÄnative
+³           ³   ³           Microsoft.Data.SqlClient.SNI.dll
+³           ³   ³           
+³           ³   ÃÄÄÄwin-arm64
+³           ³   ³   ÀÄÄÄnative
+³           ³   ³           Microsoft.Data.SqlClient.SNI.dll
+³           ³   ³           
+³           ³   ÃÄÄÄwin-x64
+³           ³   ³   ÀÄÄÄnative
+³           ³   ³           Microsoft.Data.SqlClient.SNI.dll
+³           ³   ³           
+³           ³   ÀÄÄÄwin-x86
+³           ³       ÀÄÄÄnative
+³           ³               Microsoft.Data.SqlClient.SNI.dll
+³           ³               
+³           ÃÄÄÄtr
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÃÄÄÄzh-Hans
+³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³           ³       Microsoft.CodeAnalysis.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³           ³       
+³           ÀÄÄÄzh-Hant
+³                   Microsoft.CodeAnalysis.CSharp.resources.dll
+³                   Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³                   Microsoft.CodeAnalysis.resources.dll
+³                   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+³                   Microsoft.CodeAnalysis.Workspaces.resources.dll
+³                   
+ÃÄÄÄControllers
+³       AuthController.cs
+³       OrdersController.cs
+³       
+ÃÄÄÄData
+³       ApplicationDbContext.cs
+³       
+ÃÄÄÄMigrations
+³       20251130193646_InitialCreate.cs
+³       20251130193646_InitialCreate.Designer.cs
+³       20251201125612_AddOrderPriceFields.cs
+³       20251201125612_AddOrderPriceFields.Designer.cs
+³       ApplicationDbContextModelSnapshot.cs
+³       
+ÃÄÄÄModels
+³       ApplicationUser.cs
+³       LoginDto.cs
+³       Order.cs
+³       RegisterDto.cs
+³       
+ÃÄÄÄobj
+³   ³   OrderManagementApi.csproj.nuget.dgspec.json
+³   ³   OrderManagementApi.csproj.nuget.g.props
+³   ³   OrderManagementApi.csproj.nuget.g.targets
+³   ³   project.assets.json
+³   ³   project.nuget.cache
+³   ³   
+³   ÀÄÄÄDebug
+³       ÀÄÄÄnet8.0
+³           ³   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+³           ³   ApiEndpoints.json
+³           ³   apphost.exe
+³           ³   OrderMan.9A9FD717.Up2Date
+³           ³   OrderManagementApi.AssemblyInfo.cs
+³           ³   OrderManagementApi.AssemblyInfoInputs.cache
+³           ³   OrderManagementApi.assets.cache
+³           ³   OrderManagementApi.csproj.AssemblyReference.cache
+³           ³   OrderManagementApi.csproj.BuildWithSkipAnalyzers
+³           ³   OrderManagementApi.csproj.CoreCompileInputs.cache
+³           ³   OrderManagementApi.csproj.FileListAbsolute.txt
+³           ³   OrderManagementApi.dll
+³           ³   OrderManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+³           ³   OrderManagementApi.genruntimeconfig.cache
+³           ³   OrderManagementApi.GlobalUsings.g.cs
+³           ³   OrderManagementApi.MvcApplicationPartsAssemblyInfo.cache
+³           ³   OrderManagementApi.MvcApplicationPartsAssemblyInfo.cs
+³           ³   OrderManagementApi.pdb
+³           ³   rjsmcshtml.dswa.cache.json
+³           ³   rjsmrazor.dswa.cache.json
+³           ³   rpswa.dswa.cache.json
+³           ³   staticwebassets.build.endpoints.json
+³           ³   staticwebassets.build.json
+³           ³   staticwebassets.build.json.cache
+³           ³   staticwebassets.references.upToDateCheck.txt
+³           ³   staticwebassets.removed.txt
+³           ³   
+³           ÃÄÄÄEndpointInfo
+³           ³       OrderManagementApi.json
+³           ³       OrderManagementApi.OpenApiFiles.cache
+³           ³       
+³           ÃÄÄÄref
+³           ³       OrderManagementApi.dll
+³           ³       
+³           ÃÄÄÄrefint
+³           ³       OrderManagementApi.dll
+³           ³       
+³           ÀÄÄÄstaticwebassets
+ÀÄÄÄProperties
+        launchSettings.json
+        
