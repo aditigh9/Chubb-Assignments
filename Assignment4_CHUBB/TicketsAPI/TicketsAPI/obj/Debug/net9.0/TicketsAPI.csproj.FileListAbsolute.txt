@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\TicketsAPI\TicketsAPI\obj\Debug\net9.0\TicketsAPI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TicketsAPI\TicketsAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\admin\Desktop\TicketsAPI\TicketsAPI\obj\Debug\net9.0\TicketsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TicketsAPI\TicketsAPI\obj\Debug\net9.0\TicketsAPI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TicketsAPI\TicketsAPI\obj\Debug\net9.0\TicketsAPI.AssemblyInfo.cs
+C:\Users\admin\Desktop\TicketsAPI\TicketsAPI\obj\Debug\net9.0\TicketsAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TicketsAPI\TicketsAPI\obj\Debug\net9.0\TicketsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\TicketsAPI\TicketsAPI\obj\Debug\net9.0\TicketsAPI.MvcApplicationPartsAssemblyInfo.cache

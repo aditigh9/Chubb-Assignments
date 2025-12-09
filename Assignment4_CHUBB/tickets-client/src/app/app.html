@@ -1,0 +1,46 @@
+<div class="container mt-4">
+  <h2 class="text-center mb-4">Tickets List</h2>
+
+  <table class="table table-bordered table-striped table-hover">
+    <thead class="table-dark">
+      <tr>
+        <th>ID</th>
+        <th>Short Description</th>
+        <th>Description</th>
+        <th>Created Date</th>
+        <th>Severity</th>
+        <th>Target Date</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let t of tickets">
+        <td>{{ t.id }}</td>
+        <td>{{ t.shortDescription }}</td>
+        <td>{{ t.description }}</td>
+        <td>{{ t.createdDate | date:'mediumDate' }}</td>
+        <td>{{ t.severity }}</td>
+        <td>{{ t.targetDate | date:'mediumDate' }}</td>
+        <td>
+          <span
+            class="badge"
+            [ngClass]="{
+              'bg-success': t.status === 'Open',
+              'bg-primary': t.status === 'In Progress',
+              'bg-danger': t.status === 'Closed'
+            }"
+          >
+            {{ t.status }}
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+
+
