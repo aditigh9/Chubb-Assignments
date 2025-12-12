@@ -1,0 +1,15 @@
+<div class="app-container">
+  <aside class="sidebar">
+    <h3>Menu</h3>
+    <nav>
+  <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home - Students</a>
+  <a routerLink="/add" routerLinkActive="active">Add Student</a>
+</nav>
+
+  </aside>
+
+  <main class="content">
+    <router-outlet></router-outlet>
+  </main>
+</div>
+
