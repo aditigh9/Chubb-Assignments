@@ -1,0 +1,19 @@
+::ng-deep .cdk-overlay-pane,
+::ng-deep .mat-mdc-dialog-panel,
+::ng-deep .mdc-dialog__surface {
+  border-radius: 0 !important;
+}
+
+::ng-deep .mat-mdc-dialog-container {
+  border-radius: 0 !important;
+}
+
+::ng-deep .mat-mdc-dialog-content {
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
+
+::ng-deep .mat-mdc-dialog-title {
+  padding-left: 24px !important;
+}
+

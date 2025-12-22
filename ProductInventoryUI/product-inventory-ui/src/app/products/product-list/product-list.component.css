@@ -1,0 +1,18 @@
+.page {
+  width: 95%;
+  margin: auto;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+table {
+  width: 100%;
+}
+
+
+
